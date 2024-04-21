@@ -1,0 +1,15 @@
+img {
+    margin: 20px;
+    display: block; 
+    width: 100%; 
+    height: auto; 
+    border-radius: 20px; 
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); 
+    transition: transform 0.3s ease; /* Transición suave al hacer hover */
+  }
+  
+  /* Efecto de hover */
+  img:hover {
+    transform: scale(1.05); /* Aumentar ligeramente el tamaño al hacer hover */
+  }
+  
